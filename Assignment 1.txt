@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>E-Commerce Business Registration</title>
+</head>
+<body>
+  <h1>Business Registration Form</h1>
+  <h2>By Muigai Waweru</h2>
+  <form action="#" method="post">
+    <label for="fname">First Name:</label><br>
+    <input type="text" id="fname" name="fname" required><br>
+
+    <label for="lname">Last Name:</label><br>
+    <input type="text" id="lname" name="lname" required><br>
+
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" required><br>
+
+    <label for="phone">Phone Number:</label><br>
+    <input type="tel" id="phone" name="phone" required><br>
+
+    <label for="businessName">Business Name:</label><br>
+    <input type="text" id="businessName" name="businessName" required><br>
+
+    <label for="country">Country of Origin:</label><br>
+    <select id="country" name="country" required>
+      <option value="">Select Country</option>
+      <option value="Kenya">Kenya</option>
+      <option value="Uganda">Uganda</option>
+      <option value="Tanzania">Tanzania</option>
+      <option value="Rwanda">Rwanda</option>
+      <option value="South Africa">South Africa</option>
+      <option value="USA">USA</option>
+      <option value="UK">UK</option>
+      <option value="Other">Other</option>
+    </select><br><br>
+
+    <button type="submit">Register</button>
+  </form>
+</body>
+</html>
