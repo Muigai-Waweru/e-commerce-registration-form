@@ -4,8 +4,7 @@
 <title>Assignment 1 Submit Form</title>
 <style>
         body {
-            background-image: url("E-Commerce pic 3.jpg");
-            background-size: cover;
+            E-Commerce pic 3.jpg
         }
     </style>
 <body>
@@ -21,4 +20,5 @@
 
 </html>
 </head>
+
 </body>
