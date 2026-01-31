@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Assignment 1 Submit Form</title>
+<style>
+        body {
+            background-image: url("E-Commerce pic 3.jpg");
+            background-size: cover;
+        }
+    </style>
+<body>
+<h1 style="color: orange;">Form Registered</h1>
+<body bgcolor="white">
+<p style="color: green;">You have successfully registered the form.</p>
+
+<button>
+<nav>
+<a href="Assignment 1.html">Home</a> 
+</nav>
+</button>
+
+</html>
+</head>
+</body>
